@@ -2206,3 +2206,18 @@
   end: 2024-11-28
   sub: SP
   note: Check the conference website for workshop and demo deadlines.
+
+  - title: neuroMONSTER
+  year: 2024
+  id: nm2024
+  full_name: Mathematics of Neuroscience and Artificial Intelligence # full conference name
+  link: https://neuromonster.org
+  deadline: '2024-02-28 23:59:59'
+  abstract_deadline: '2024-02-28 23:59:59'
+  timezone: UTC+1
+  place: Rome, Italy
+  date: May 28-31, 2024
+  start: 2024-05-28
+  end: 2024-05-31
+  sub: ML
+  note: Mandatory abstract deadline on April 24, 2024. More info <a href='https://neuromonster.org/'>here</a>.
